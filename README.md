@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     
-<img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat,anaconda,ansible,azure,bash,brave,cassandra,chrome,debian,discord,django,dotnet,dynamodb,eclipse,flutter,gemini,github,githubcopilot,gitlab,grafana,heroku,gmail,idea,react,bootstrap,html,css,vscode,figma,git,r,docker,firebase,mongodb,c,java,nextjs,mysql,flask,sqlite,scala,cpp,cs,matplotlib,seaborn,tableau,tensorflow,chatgpt,postgresql,aws,python,js,typescript,express&perline=15" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=acrobat,anaconda,ansible,azure,bash,brave,cassandra,chrome,debian,discord,django,dotnet,dynamodb,eclipse,flutter,gemini,github,githubcopilot,gitlab,grafana,heroku,gmail,idea,jira,react,jenkins,bootstrap,jquery,kafka,kaggle,kali,langchain,latex,leetcode,linux,netlify,ngrok,npm,numpy,onenote,outlook,php,html,css,vscode,figma,git,r,docker,firebase,mongodb,c,java,nextjs,mysql,flask,sqlite,scala,cpp,cs,matplotlib,seaborn,tableau,tensorflow,chatgpt,postgresql,aws,python,js,typescript,express&perline=15" />
 
 <br>
 </div>
