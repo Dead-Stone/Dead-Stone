@@ -40,7 +40,7 @@
 <img src ="https://go-skill-icons.vercel.app/api/icons?i=firebase,mongodb,c,java,nextjs,mysql,flask,sqlite,scala,cpp,cs,matplotlib,seaborn,tableau,powerbi" />
 <img src ="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,chatgpt,postgresql,aws,redshift,python,javascript,typescript,express" />
 
-    <br>
+<br>
 </div>
 
 <br/>
