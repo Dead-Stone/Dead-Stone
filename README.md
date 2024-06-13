@@ -42,7 +42,7 @@ I am a passionate and driven data scientist with a strong background in software
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-3E7C17?style=for-the-badge&logo=ai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-3E7C17?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Mathematics & Statistics
 ![Statistics](https://img.shields.io/badge/Statistics-004080?style=for-the-badge&logo=statistics&logoColor=white)
@@ -67,6 +67,7 @@ I am a passionate and driven data scientist with a strong background in software
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Publications
 
