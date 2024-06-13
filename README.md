@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, SQL, Firebase... or anything [here](https://github.com/Dead-Stone/Dead-Stone/issues)**
 
-⚡ Fun fact **In 2019, a photo of a simple brown egg became the most-liked post on Instagram, surpassing Kylie Jenner's previous record. The "world_record_egg" garnered over 54 million likes, showcasing the power of social media virality.**
+⚡ Fun fact: **In 2019, a simple brown egg broke Instagram's record with over 54 million likes, surpassing Kylie Jenner!**
 
  </div>
  
