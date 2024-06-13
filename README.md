@@ -1,99 +1,76 @@
-# Mohana Satyanarayana Moganti
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohana-moganti/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dead-Stone)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanasatyanarayana.moganti@sjsu.edu)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohana!;" />
+</h1>
 
-## About Me
+<h3 align="center">A passionate software developer from San Jose 🇨🇦</h3>
 
-I am a passionate and driven data scientist with a strong background in software engineering, currently pursuing a Master of Science in Software Engineering at San Jose State University. With a solid foundation in data analysis, machine learning, and AI, I have hands-on experience in various technical domains.
+<br/>
 
-## Education
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- **Master of Science in Software Engineering**, San Jose State University, GPA: 3.54/4.0 (Aug 2023 - May 2025)
-- **Bachelor of Engineering in Information Technology**, Osmania University, GPA: 3.54/4.0 (Aug 2016 - Sep 2020)
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-## Technical Skills
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-### Data Analysis & Manipulation
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-### Data Visualization Tools
-![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br/>
+<hr/>
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-3E7C17?style=for-the-badge&logo=ai&logoColor=white)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-### Mathematics & Statistics
-![Statistics](https://img.shields.io/badge/Statistics-004080?style=for-the-badge&logo=statistics&logoColor=white)
-![Probability](https://img.shields.io/badge/Probability-800000?style=for-the-badge&logo=probability&logoColor=white)
-![Regression](https://img.shields.io/badge/Regression-660066?style=for-the-badge&logo=regression&logoColor=white)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-004080?style=for-the-badge&logo=hypothesis-testing&logoColor=white)
+<hr/>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-### Cloud & Data Storage
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-232F3E?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+<br/><br/>
 
-### Data Engineering & Workflow Tools
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<hr/>
 
-## Publications
+<br/>
 
-- **Learning Based Approach for Hindi Text Sentiment Analysis Using Naive Bayes Classifier**, International Journal of Innovations in Engineering Research and Technology (IJIERT), 2020. [Read more](https://repo.ijiert.org/index.php/ijiert/article/view/161)
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-
-## Experience
-
-- **Intern, Flatirons AI LLC, San Jose, CA** (May 2024 - Aug 2024)
-  - Developed expertise in Generative AI and LLMs with hands-on experience in RAG, few-shot learning, retrieval techniques, Vector Databases, and Neo4j for graph databases.
-
-- **Officer 1 - Associate Developer, Alter Domus, Hyderabad** (May 2023 - Jun 2023)
-  - Architected and implemented solutions for over 30 database and server issues, optimizing performance and reducing operational expenses.
-
-- **RFA Associate Software Analyst, Deloitte Touche Tohmatsu India LLP, Hyderabad** (Aug 2021 - May 2023)
-  - Refined database and procedure management, and collaborated with clients to manage real-time production environment issues.
-
-- **Trainee Software Engineer, Turito Pvt. Ltd., Hyderabad** (Jan 2021 - Jul 2021)
-  - Developed a RESTful API using Scala, supporting a prominent educational project.
-
-- **Trainee Software Engineer, YuppTV India Pvt. Ltd., Hyderabad** (Jan 2020 - Dec 2020)
-  - Created a RESTful API using Scala for a major educational initiative, increasing operational efficiency and customer engagement.
-
-- **Intern, Centre for Development of Advanced Computing (CDAC), Hyderabad** (May 2019 - Jun 2019)
-  - Acquired proficiency in Kali Linux and cybersecurity essentials.
-
-
-
-Feel free to reach out via email or connect with me on LinkedIn and GitHub!
+<br/>
