@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dead-Stone.Dead-Stone" />
-![WhatsApp Image 2024-06-13 at 12 26 17 PM](https://github.com/Dead-Stone/Dead-Stone/assets/53141911/80130512-8c8a-471f-9aba-0ebe2f4b904c)
+<img align="right" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/80130512-8c8a-471f-9aba-0ebe2f4b904c"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohana+Moganti!;" />
