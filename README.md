@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dead-Stone.Dead-Stone" />
-<img align="left-top" style="width:200px; margin-left:20px;" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/ff379159-780f-4be9-8261-eb6af85677cb" />
+<img align="center" style="width:200px; margin-left:20px;" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/46e7a087-5d70-46de-9339-61bcdd06add7" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohana+Moganti!;" />
