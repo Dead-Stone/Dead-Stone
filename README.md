@@ -92,14 +92,5 @@ I am a passionate and driven data scientist with a strong background in software
 
 - **Learning Based Approach for Hindi Text Sentiment Analysis Using Naive Bayes Classifier**, International Journal of Innovations in Engineering Research and Technology (IJIERT), 2020. [Read more](https://repo.ijiert.org/index.php/ijiert/article/view/161)
 
-## Projects
-
-- **Git Insights RAG-a-thon:** Developed a data processing system utilizing GitHub's API and Astra DB, integrating OpenAI APIs for real-time data retrieval and formatting (Feb 2024).
-- **Journey in Zoe's Life Hack for Humanity:** Led the development of "Zoe's Journey," an RPG designed to simulate trauma recovery within a virtual space, using RPG JS framework (Feb 2024).
-- **BART VTA Data Modelling, San Jose State University:** Employed tools including MySQL Workbench, Python, DBT, Neo4j, MongoDB, BigQuery, GCP, AWS Glue, Kubernetes, and Flask for a comprehensive data modeling project (Dec 2023 - Jan 2024).
-- **Data Analysis on Drug Overdose Deaths, San Jose State University:** Led a comprehensive analysis of over 60,000 records to study drug overdose trends and contribute to public health policy development (Sept 2023 - Nov 2023).
-- **Remote Joystick Personal Project:** Developed a lightweight joystick emulation tool for personal computers, achieving a low latency of 10ms or less (Sept 2019 - Oct 2019).
-
----
 
 Feel free to reach out via email or connect with me on LinkedIn and GitHub!
