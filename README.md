@@ -36,7 +36,7 @@
 <br/>
 <div align="center">
     
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,html,css,vscode,figma,git,r,docker,firebase,mongodb,c,java,nextjs,mysql,flask,sqlite,scala,cpp,cs,matplotlib,seaborn,tableau,powerbi,tensorflow,chatgpt,postgresql,aws,python,javascript,typescript,express&perline=15" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,html,css,vscode,figma,git,r,docker,firebase,mongodb,c,java,nextjs,mysql,flask,sqlite,scala,cpp,cs,matplotlib,seaborn,tableau,tensorflow,chatgpt,postgresql,aws,python,javascript,typescript,express&perline=15" />
 
 <br>
 </div>
