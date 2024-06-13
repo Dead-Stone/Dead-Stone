@@ -68,6 +68,11 @@ I am a passionate and driven data scientist with a strong background in software
 ![DBT](https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+## Publications
+
+- **Learning Based Approach for Hindi Text Sentiment Analysis Using Naive Bayes Classifier**, International Journal of Innovations in Engineering Research and Technology (IJIERT), 2020. [Read more](https://repo.ijiert.org/index.php/ijiert/article/view/161)
+
+
 ## Experience
 
 - **Intern, Flatirons AI LLC, San Jose, CA** (May 2024 - Aug 2024)
@@ -88,9 +93,6 @@ I am a passionate and driven data scientist with a strong background in software
 - **Intern, Centre for Development of Advanced Computing (CDAC), Hyderabad** (May 2019 - Jun 2019)
   - Acquired proficiency in Kali Linux and cybersecurity essentials.
 
-## Publications
-
-- **Learning Based Approach for Hindi Text Sentiment Analysis Using Naive Bayes Classifier**, International Journal of Innovations in Engineering Research and Technology (IJIERT), 2020. [Read more](https://repo.ijiert.org/index.php/ijiert/article/view/161)
 
 
 Feel free to reach out via email or connect with me on LinkedIn and GitHub!
