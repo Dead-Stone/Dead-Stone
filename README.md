@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Generative AI**
  
- 🌱 I’m currently learning **OpenAPI, RAG, AWS**
+ 🌱 I’m currently learning **OpenAPI, RAG, AWS, GraphDB**
 
 💬 Ask me about **Node.js, SQL, APIs... or anything [here](https://github.com/Dead-Stone/Dead-Stone/issues)**
 
