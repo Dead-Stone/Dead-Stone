@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img style="width:100px;" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/46e7a087-5d70-46de-9339-61bcdd06add7" />
+    <img style="width:200px;" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/46e7a087-5d70-46de-9339-61bcdd06add7" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohana+Moganti!;" />
 </h1>
 
