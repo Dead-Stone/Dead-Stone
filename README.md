@@ -32,7 +32,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=py,pycharm,pytorch,tensorflow,numpy,pandas,seaborn,matplotlib,streamlit,r,scala,java,c,cpp,cs,typescript,javascript,nodejs,express,react,nextjs,angular,bootstrap,materialui,html,css,jquery,flask,django,firebase,mongodb,postgresql,mysql,sqlite,redis,cassandra,dynamodb,git,github,gitlab,githubcopilot,heroku,vercel,netlify,aws,azure,googlecloud,docker,kubernetes,jenkins,ansible,terraform,selenium,jira,figma,tableau,excel,grafana,spark,kafka,terraform,vscode,visualstudio,androidstudio,eclipse,matlab,arduino,php,kotlin,flutter,unity,blender,latex,yaml,bash,linux,windows,debian,ubuntu,redhat,kali,teams,slack,discord,gmail,onenote,outlook,linkedin,twitter,stackoverflow,wordpress,webflow,brave,chrome,firefox,edge,github,ngrok&perline=15" />
