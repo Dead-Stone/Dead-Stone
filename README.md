@@ -1,5 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dead-Stone.Dead-Stone" />
-<img align="right" style="width:100px; margin-left:20px;" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/80130512-8c8a-471f-9aba-0ebe2f4b904c" />
+<img align="left-top" style="width:200px; margin-left:20px;" src="https://github.com/Dead-Stone/Dead-Stone/assets/53141911/80130512-8c8a-471f-9aba-0ebe2f4b904c" />
 
 
 <h1 align="center">
